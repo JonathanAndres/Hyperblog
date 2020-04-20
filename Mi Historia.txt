@@ -18,6 +18,7 @@ Comandos aprendidos para GIT
 13. git log --stat (Permite ver todos los cambios realizados en el documento a mas detalle)
 14. git branch nombreRama (Crea una rama nueva)
 =======
-13. git checkout nombreRama (Moverse entre ramas)
- 
+15. git checkout nombreRama (Moverse entre ramas)
 >>>>>>> cabecera
+16. git brench (Informacion de las ramas)
+17. git merge nombreRama (Este comando trae los cambios realizados entre ramas de la rama a la que llamas) 

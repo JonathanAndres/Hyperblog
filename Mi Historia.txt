@@ -44,4 +44,14 @@ Ageregamos la llave al servidor
     3. en GitHub en configuraciones agregamos mi llave publica
     4. compiamos el codigo de clone ssh 
     5. Ingresamos a nuestro proyecto local y lo inicializamos
-    6. git remote set-url origin codigo ssh GitHub
+    6. git remote set-url origin --codigo ssh GitHub--
+    7. git pull origin master (para revisar que todo este funcionando correctamente)
+
+
+Etiquetas a los comandos 
+    1. git log --all --graph --decorate --oneline (te muestra las ramas que se han realizado en Git)
+    2. alias arbolito = "git log --all --graph --decorate --oneline" (arbolito reemplaza a este comando)
+    3. git tag -a v0.01 -m "Resultados de la primera clase" 1aaaf6d (Crea un tag de un documento o una accion)
+    4. git tag (Muestra los tags existentes)
+    5. git show-ref --tags (te muestra todos los datos de los tags creados)
+    

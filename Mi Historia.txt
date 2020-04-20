@@ -54,4 +54,9 @@ Etiquetas a los comandos
     3. git tag -a v0.01 -m "Resultados de la primera clase" 1aaaf6d (Crea un tag de un documento o una accion)
     4. git tag (Muestra los tags existentes)
     5. git show-ref --tags (te muestra todos los datos de los tags creados)
-    
+    6. git push origin --tags (empuja los tags al repositorio remoto)
+    7. git tag -d --nombre del tag-- (borra un tag)
+    8. git push origin :refs/tags/v0.1 (borra definitivamente un tag)
+
+
+

@@ -41,4 +41,7 @@ Evaluamos que el servicio de llaves este activado en Windows
 Ageregamos la llave al servidor
     1. cd ~/.ssh/ (nos lleva al directorio ssh)
     2. shh-add ~/.shh/id_rsa (Se agrega la llave priva rsa no la .pub)
-
+    3. en GitHub en configuraciones agregamos mi llave publica
+    4. compiamos el codigo de clone ssh 
+    5. Ingresamos a nuestro proyecto local y lo inicializamos
+    6. git remote set-url origin codigo ssh GitHub

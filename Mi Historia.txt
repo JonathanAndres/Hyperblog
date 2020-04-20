@@ -14,5 +14,10 @@ Comandos aprendidos para GIT
 10. git reset (---)
 11. git checkout (viaje en el tiempo de un archivo)
 12. git log -Nombre del documento- (Permite ver todos los cambios realizados en el documento)
+<<<<<<< HEAD
 13. git log --stat (Permite ver todos los cambios realizados en el documento a mas detalle)
 14. git branch nombreRama (Crea una rama nueva)
+=======
+13. git checkout nombreRama (Moverse entre ramas)
+ 
+>>>>>>> cabecera

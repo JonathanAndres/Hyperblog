@@ -19,3 +19,5 @@ Comandos aprendidos para GIT
 15. git checkout nombreRama (Moverse entre ramas)
 16. git brench (Informacion de las ramas)
 17. git merge nombreRama (Este comando trae los cambios realizados entre ramas de la rama a la que llamas) 
+18. git remote add origin https://github.com/JonathanAndres/Hyperblog.git (se vincula a un espacio remoto de GitHub)
+19. git remote -v (Muestra el espacio remoto de mi repositorio)

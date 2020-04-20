@@ -21,3 +21,10 @@ Comandos aprendidos para GIT
 17. git merge nombreRama (Este comando trae los cambios realizados entre ramas de la rama a la que llamas) 
 18. git remote add origin https://github.com/JonathanAndres/Hyperblog.git (se vincula a un espacio remoto de GitHub)
 19. git remote -v (Muestra el espacio remoto de mi repositorio)
+
+Nota: pasos para la sincronizacion de espacio remoto y local
+      1. "git remote add origin"(agrega la direccion de un repositorio remoto)
+      2. "git pull origin master"(Pide que se unan los repositorio)
+      3. "git pull origin master --allow-unrelated-histores"(Fuerza a unirse los repositorios)
+      4. "git push origin master"(envia los datos del local al remoto)
+      
